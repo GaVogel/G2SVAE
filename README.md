@@ -1,8 +1,12 @@
 # Inverse Design of Copolymers Including Stoichiometry and Chain Architecture
 
-**Repository for the paper "Inverse design of copolymers including stoichiometry and chain architecture" [https://arxiv.org/abs/2410.02824]**
+**Repository for the paper [Inverse design of copolymers including stoichiometry and chain architecture](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc05900j)**
 
 This project aims to enable the machine learning-guided discovery of novel copolymers by generating monomer ensembles with different stoichiometries and chain architectures. Our model is based on a novel Variational Autoencoder (VAE) that encodes a graph and decodes a string, offering advanced polymer design capabilities, including inverse design via optimization in latent space.
+
+<p align="center">
+  <img src="polymer_inverse_design_graphAbs.jpg" alt="Abstract" style="width:700px;"/>
+</p>
 
 ## Table of Contents
 - [Overview](#overview)
